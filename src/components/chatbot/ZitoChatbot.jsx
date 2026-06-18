@@ -39,7 +39,7 @@ const languages = [
   {
     code: "os",
     label: "Oshiwambo",
-    greeting: "Wa lalapo! Ame Zito, omukwateli gwoye gwoskola. Onda hala okukwafela ngahelipi nena?",
+    greeting: "Wa lalapo! Ame Zito, omukwatheli gwoye gwoskola. Owa hala okukwathela ngahelipi nena?",
   },
   {
     code: "af",
@@ -139,7 +139,7 @@ export function ZitoChatbot() {
       },
       default: {
         en: "I understand you're asking about '" + query + "'. Let me connect you with the right department for more detailed assistance.",
-        os: "Ondu uviteko oto pula kombinga yo '" + query + "'. Ndi ku kwafele nokapangelo ka li nawa.",
+        os: "Ondu uviteko oto pula kombinga yo '" + query + "'. Andiya ndiku pe ongodhi ndjoka una oku kwatathana nayo.",
         af: "Ek verstaan jy vra oor '" + query + "'. Laat my jou met die regte departement verbind vir meer gedetailleerde hulp.",
       },
     };
