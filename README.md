@@ -1,6 +1,8 @@
 # iSchool Management System (iSMS) - Development Plan
 ---
+
 ![isms](https://github.com/Tusneld/isms/blob/210ebe254dc49b677bdb546fcfef5f3d094d8c47/public/isms.png)
+
 ---
 
 **Tech Stack:** React (Vite), Tailwind CSS, Zustand, React Router
